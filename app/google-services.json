@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1079819591105",
+    "project_id": "healt-support",
+    "storage_bucket": "healt-support.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079819591105:android:274851999d7d8c5d432340",
+        "android_client_info": {
+          "package_name": "com.example.healthsupport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079819591105-rptrfp5a6hbp0ldel9un5vq2pgg5jqhg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthsupport",
+            "certificate_hash": "773eac6b0cec6def1e5383a79e0128c37f9a71b4"
+          }
+        },
+        {
+          "client_id": "1079819591105-mi9kq5bd96bq2gllvt8d3erdh04rpehd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHBh5cAOxTaQzprs9fY0Ah6dLrLMBRwUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079819591105-mi9kq5bd96bq2gllvt8d3erdh04rpehd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
